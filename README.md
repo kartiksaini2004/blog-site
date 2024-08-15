@@ -1,6 +1,5 @@
-Blog Site
-
-A simple blog site built with Node.js, Express.js, MongoDB, EJS, and CSS. The site allows users to create, edit, and delete articles.
+Blogo
+A blog site built with Node.js, Express.js, MongoDB, EJS, and CSS. The site allows users to create, edit, and delete articles.
 Features
 
     Create Articles: Users can write and publish new articles.
